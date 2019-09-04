@@ -1,0 +1,87 @@
+body {
+background: navy;
+}
+
+#screen {
+  overflow: auto;
+}
+
+#screen div {
+  float: left;
+}
+
+#title {
+  text-align: center;
+  width: 98%;
+  padding: 4px;
+  margin-bottom: 10px;
+  color: navy;
+  background-color: grey;
+}
+
+#instructions {
+  text-align: center;
+  width: 98%;
+  height: 400px;
+  padding: 4px;
+  margin-bottom: 10px;
+  color: navy;
+  background-color: grey;
+}
+
+#random-score {
+  text-align: center;
+  width: 70%;
+  height: 100px;
+  padding: 4px;
+  font-size: 3vw;
+  color: navy;
+  background-color: grey;
+}
+
+#running-score {
+  text-align: center;
+  width: 98%;
+  height: 100px;
+  padding: 4px;
+  color: navy;
+  background-color: grey;
+}
+
+#score-display {
+  text-align: center;
+  width: 98%;
+  padding: 4px;
+  margin-bottom: 10px;
+  color: navy;
+  background-color: grey;
+}
+
+.crystals-button {
+  display: inline;
+}
+
+.crystal-img {
+  margin-left:200px;
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
+
+#score-number {
+  font-size: 3vw;
+}
+
+#wins {
+  text-align: center;
+  width:26.75%;
+  height: 100px;
+  padding: 4px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  color:navy;
+  background-color: grey;
+}
